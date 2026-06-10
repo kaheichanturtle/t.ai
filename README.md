@@ -4,7 +4,7 @@ T.ai is a lightweight AI alternative to Google Search.
 It’s designed to be fast, simple, and customizable — you bring your own Gemini API key, T.ai handles the rest.
 
 > Made by **Ka Hei Chan** with help from **Gemini 3 Pro**.  
-> Current internal version: **v19 (Internal Beta)**
+> Current internal version: **v12 (Internal Beta)**
 
 ---
 
@@ -18,7 +18,7 @@ It’s designed to be fast, simple, and customizable — you bring your own Gemi
 
 - **Pluggable Gemini backend**  
   - Uses your own **Gemini API key** (not hard‑coded).
-  - Default model: `gemma-3-27b-it` (editable in settings).
+  - Default model: `gemma-4-31b-it` (editable in settings).
 
 - **Personality presets**  
   - `Sassy & Bold`
